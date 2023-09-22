@@ -1,0 +1,39 @@
+{
+  "blogs": [
+    {
+      "symbol": "hi",
+      "title": "My First Blog",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted.",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "symbol": "hey",
+      "title": "Opening Party!",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted etc.",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "symbol": "hello",
+      "title": "closing Party!",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted etc.",
+      "author": "yoshi",
+      "id": 3
+    },
+    {
+      "symbol": "yes",
+      "title": "Opening Game!",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted etc.",
+      "author": "yoshi",
+      "id": 4
+    },
+    {
+      "symbol": "yeah",
+      "title": "Closing Game!",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted etc.",
+      "author": "yoshi",
+      "id": 5
+    }
+  ]
+}
